@@ -6,6 +6,8 @@ const domain = 'https://dvfast.site';
 
 // 2. DANH SÁCH FILE CẦN CHẠY (Đã cập nhật theo yêu cầu mới)
 const files = [
+    'sending_email.php',
+    'cron.php',
     'doithe1s.php',
     'gachthefast.php',
     'UpdateRateService.php',
